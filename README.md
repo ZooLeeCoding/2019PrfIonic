@@ -9,7 +9,7 @@ ionic cordova build android
 ionic cordova run android
 
 
-Otthoni feladat: automatikus +5 pont minden beküldőnek
+Otthoni feladat: automatikus +5 pont minden helyes megoldást beküldőnek
 - buildelj le egy .apk fájlt az otthoni gépen a projektből (ionic cordova build android    után meg kell jelennie a build/outputs mappában)
 - vond be a DB Meter plugint https://ionicframework.com/docs/native/db-meter
 - fontos infó: az app.module.ts-be is importáld be DBMeter-t a mintában látott módon és tedd bele a providers tömbbe különben nem fog működni
