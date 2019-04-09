@@ -1,5 +1,7 @@
 {
   "name": "ProgRendszer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
